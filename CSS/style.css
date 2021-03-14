@@ -1,0 +1,73 @@
+.body{
+    font-family: "Open Sans",sans-serif;
+}
+.banner-container
+{
+    background-color: #cacaca ;
+}
+.banner-column
+{
+    background-color: #817c7c;
+}
+.navbar-container{
+    top:0;
+    background-color: #262b37;
+    position: sticky;
+    z-index: 2;
+}
+.about-container{
+background-color: #00bdbd;
+
+}
+.education-container{
+    background-color: #eeeeee;
+}
+
+.bg-redtype-color{
+  background-color  : #fb857f;
+}
+.bg-redtype-color:hover{
+    background-color : #363434!important;
+}
+.circle{
+    background-color:  #fb857f;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+.project-container{
+    background-color: #145d92;
+}
+
+.portfolio-container{
+    background-color:#0b2a41 ;
+    opacity: .92;
+    /* background-image: url("/image/tenor.gif"); */
+    
+}
+
+.form-container{
+    background-color: #474d5d;
+}
+.inner-form{
+   background-color: #585f73; 
+   text-emphasis-color: black;
+} 
+.footer{
+    background-color: #2bb3dd;
+}
+.circles{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+   
+    font-size: 40px;
+    text-align: center;
+    color: #2bb3dd;
+}
+
+.circles-hover{
+    background-color:#474d5d ;
+ 
+}
